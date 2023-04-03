@@ -1,1 +1,1 @@
-# flutter_exercises.
+Flutter exercises
